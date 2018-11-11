@@ -1,0 +1,6 @@
+npm install -g create-react-app
+create-react-app web
+cd web
+code .
+npm install
+npm start
